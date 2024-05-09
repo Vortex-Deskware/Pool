@@ -1,5 +1,7 @@
 # Pool
-a foss Droplet client based off of electron and built with Electrimake
+
+a foss Droplet client based off of electron and built with 
+<p><a href="https://github.com/colebolebole/Electrimake">Electrimake</a>
 
 
 ---
