@@ -1,0 +1,15 @@
+{
+  "name": "Pool",
+  "version": "1.0.1",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "description": "A droplet client built with electron & electimake",
+  "author": "colebolebole",
+  "devDependencies": {
+    "electron": "^16.2.8"
+  }
+}
